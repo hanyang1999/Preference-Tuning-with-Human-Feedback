@@ -1,12 +1,14 @@
 # Preference Tuning Research Resources
-This is the list of tutorials, workshops, papers, and resources on RL and preference tuning (with or without human feedback) research, which includes all papers discussed in our [survey paper](https://arxiv.org/pdf/2409.11564).
+This is the list of tutorials, workshops, papers, and resources on RL and preference tuning (with or without human feedback) research, which includes all papers discussed in our survey paper: [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/pdf/2409.11564).
 
 The paper list will be updated over the time. You are always more than welcome to send a pull request for updating the list and be one of the contributors! 
 
 ## Table of Contents
 
 - [🚀 Highlights](#-highlights)
-- [🏫 Workshops](#-workshops)
+
+<!-- - [🏫 Workshops](#-workshops) -->
+
 - [📑 Research Papers](#-research-papers)
   - [Survey Paper](#survey-paper)
   - [Large Language Models](#large-language-models)
@@ -37,7 +39,7 @@ The paper list will be updated over the time. You are always more than welcome t
 - [Theses](#theses)
 
 ## 🚀 Highlights
-
+- 2025/04/07 We release the third version of our survey paper! We include more related relevant references e.g. [GRPO](https://arxiv.org/abs/2402.03300).
 - 2025/02/07 Our paper is accepted by the Journal of Artifical Intelligence Research.
 
 <!---
@@ -45,8 +47,10 @@ The paper list will be updated over the time. You are always more than welcome t
 - We (I, Marina Zhukova, and Sudipta Kar) organized a bird-of-a-feather session at EMNLP 2022 in Abu Dhabi. We have around 30 people joining (in-person and online). Thanks for coming!
 - 📔 There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/">link</a>.
 -->
-## 🏫 Workshops
+
 <!---
+## 🏫 Workshops
+
 
 This is the list of the code-switching workshop series:
 - First Workshop on Computational Approaches to Code-switching, EMNLP 2014 <a href="http://emnlp2014.org/workshops/CodeSwitch/call.html">[Website]</a>
