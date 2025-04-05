@@ -1,6 +1,7 @@
 # Preference Tuning Research Resources
-This is the list of tutorials, workshops, papers, and resources on preference tuning (with or without human feedback) research. 
-The list will be updated over the time. You are welcome to send a pull request for updating the list and be one of the contributors! 
+This is the list of tutorials, workshops, papers, and resources on RL and preference tuning (with or without human feedback) research, which includes all papers discussed in our [survey paper](https://arxiv.org/pdf/2409.11564).
+
+The paper list will be updated over the time. You are always more than welcome to send a pull request for updating the list and be one of the contributors! 
 
 ## Table of Contents
 
@@ -36,9 +37,11 @@ The list will be updated over the time. You are welcome to send a pull request f
 - [Theses](#theses)
 
 ## 🚀 Highlights
+
+- 2025/02/07 Our paper is accepted by the Journal of Artifical Intelligence Research.
+
 <!---
-- If you are new on code-switching or looking for a new research direction, we have written a comprehensive survey paper on code-switching: <b>The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges</b> <a href="https://arxiv.org/pdf/2212.09660.pdf">[Paper]</a>. Feel free to read and let us know if you have any suggestions! Thanks to Alham Fikri Aji, Zheng-Xin Yong, and Thamar Solorio to make this possible 😊
-- We organized the code-switching workshop at EMNLP 2023! <a href="https://code-switching.github.io/2023">[Website]</a>
+- 
 - We (I, Marina Zhukova, and Sudipta Kar) organized a bird-of-a-feather session at EMNLP 2022 in Abu Dhabi. We have around 30 people joining (in-person and online). Thanks for coming!
 - 📔 There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/">link</a>.
 -->
