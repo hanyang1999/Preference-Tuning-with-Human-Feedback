@@ -8,7 +8,7 @@ The paper list will be updated over the time. You are always more than welcome t
 - [🚀 Highlights](#-highlights)
 
 - [📑 Research Papers](#-research-papers)
-  - [Survey Paper](#Other Related Survey Papers)
+  - [Other Related Survey Papers](#Other-Related-Survey-Papers)
   - [Large Language Models](#large-language-models)
   - [Language Identification and POS Tagging](#language-identification-and-pos-tagging)
   - [Corpus](#corpus)
