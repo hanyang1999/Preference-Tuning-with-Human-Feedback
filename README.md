@@ -21,7 +21,7 @@ The paper list will be updated over the time. You are always more than welcome t
 ## 📑Papers
 
 ### OpenAI RLHF Series
-- <b>Ouyang, et al. (2022)</b> <i>Training Language Models to Follow Instructions with Human Feedback</i>. Arxiv <a href="https://arxiv.org/pdf/2203.02155">[Paper]</a>
+- <b>Ouyang, et al. (2022)</b> <i>Training Language Models to Follow Instructions with Human Feedback</i>. NeurIPS 2023 <a href="https://arxiv.org/pdf/2203.02155">[Paper]</a>
 
 ## Blogs and Links
 - <b>Weng (2024)</b> <i>Reward Hacking</i>. Lilian Weng Blog <a href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/">[Blog]</a>
