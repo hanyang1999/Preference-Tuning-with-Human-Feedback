@@ -18,16 +18,16 @@ The paper list will be updated over the time. You are always more than welcome t
 - 2025/04/07 We release the third version of our survey paper! We include more related relevant references e.g. [GRPO](https://arxiv.org/abs/2402.03300).
 - 2025/02/07 Our paper is accepted by the Journal of Artifical Intelligence Research.
 
-## 📑 Research Papers
+## 📑Papers
 
-### Other Related Survey Papers
-- <b>opendilab</b> <i>awesome-RLHF</i>. <a href="https://github.com/opendilab/awesome-RLHF">[Github]</a>
-
-### OpenAI RLHF
+### OpenAI RLHF Series
 - <b>Ouyang, et al. (2022)</b> <i>Training Language Models to Follow Instructions with Human Feedback</i>. Arxiv <a href="https://arxiv.org/pdf/2203.02155">[Paper]</a>
 
 ## Blogs and Links
 - <b>Weng (2024)</b> <i>Reward Hacking</i>. Lilian Weng Blog <a href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/">[Blog]</a>
+
+## Other Related Survey Papers
+- <b>opendilab</b> <i>awesome-RLHF</i>. <a href="https://github.com/opendilab/awesome-RLHF">[Github]</a>
 
 # Citation
 
