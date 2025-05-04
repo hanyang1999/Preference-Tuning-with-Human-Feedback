@@ -14,6 +14,7 @@ The paper list will be updated over the time. You are always more than welcome t
 - [Blogs and Links](#Blogs-and-Links)
 
 ## 🚀 Highlights
+- 2025/04/30 Our survey paper is officially published by Journal of Artificial Intelligence Research (JAIR).
 - 2025/04/07 We release the third version of our survey paper! We include more related relevant references e.g. [GRPO](https://arxiv.org/abs/2402.03300).
 - 2025/02/07 Our paper is accepted by the Journal of Artifical Intelligence Research.
 
@@ -27,3 +28,18 @@ The paper list will be updated over the time. You are always more than welcome t
 
 ## Blogs and Links
 - <b>Weng (2024)</b> <i>Reward Hacking</i>. Lilian Weng Blog <a href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/">[Blog]</a>
+
+# Citation
+
+If our paper and this github repo are helpful, you are more than welcome to cite our papers through the following bib tex:
+
+```
+@article{winata2025preference,
+  title={Preference tuning with human feedback on language, speech, and vision tasks: A survey},
+  author={Winata, Genta Indra and Zhao, Hanyang and Das, Anirban and Tang, Wenpin and Yao, David D and Zhang, Shi-Xiong and Sahu, Sambit},
+  journal={Journal of Artificial Intelligence Research},
+  volume={82},
+  pages={2595--2661},
+  year={2025}
+}
+```
