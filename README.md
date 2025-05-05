@@ -18,7 +18,7 @@ The paper list will be updated over the time. You are always more than welcome t
 - 2025/04/07 We release the third version of our survey paper! We include more related relevant references e.g. [GRPO](https://arxiv.org/abs/2402.03300).
 - 2025/02/07 Our paper is accepted by the Journal of Artifical Intelligence Research.
 
-## Table of Contents
+### Papers Table of Contents
 - [Online Methods](#online-methods)
   - [RLHF](#rlhf)
     - [PPO](#ppo)
@@ -33,11 +33,11 @@ The paper list will be updated over the time. You are always more than welcome t
 - [Combination](#combination)
 - [Sampling-Agnostic](#sampling-agnostic)
 
-## Online Methods
+### Online Methods
 
-### RLHF
+#### RLHF
 
-#### PPO
+##### PPO
 
 - **Ouyang, et al. (2022)** *Training Language Models to Follow Instructions with Human Feedback*. NeurIPS 2022 [[Paper](https://arxiv.org/abs/2203.02155)]
 - **Bai, et al. (2022)** *Constitutional AI: Harmlessness from AI Feedback*. arXiv [[Paper](https://arxiv.org/abs/2212.08073)]
@@ -46,34 +46,34 @@ The paper list will be updated over the time. You are always more than welcome t
 - **Dang, et al. (2024)** *RLHF Can Speak Many Languages: Unlocking Multilingual Preference Optimization for LLMs*. arXiv [[Paper](https://arxiv.org/abs/2407.02552)]
 - **Dong, et al. (2024)** *RLHF Workflow: From Reward Modeling to Online RLHF*. arXiv [[Paper](https://arxiv.org/abs/2405.07863)]
 
-#### REINFORCE
+##### REINFORCE
 
 - **Li, et al. (2023)** *ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models*. ICML 2023 [[Paper](https://arxiv.org/abs/2310.10042)]
 - **Ahmadian, et al. (2024)** *Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs*. arXiv [[Paper](https://arxiv.org/abs/2402.14740)]
 - **Shao, et al. (2024)** *DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models*. arXiv [[Paper](https://arxiv.org/abs/2402.03300)]
 
-### Online DPO
+#### Online DPO
 
 - **Xu, et al. (2023)** *Some Things Are More Cringe Than Others: Preference Optimization with the Pairwise Cringe Loss*. arXiv [[Paper](https://arxiv.org/abs/2312.16682)]
 - **Guo, et al. (2024)** *Direct Language Model Alignment from Online AI Feedback*. arXiv [[Paper](https://arxiv.org/abs/2402.04792)]
 - **Chen, et al. (2024)** *OPTune: Efficient Online Preference Tuning*. arXiv [[Paper](https://arxiv.org/abs/2406.07657)]
 - **Yuan, et al. (2024)** *Self-Rewarding Language Models*. arXiv [[Paper](https://arxiv.org/abs/2401.10020)]
 
-### Nash-Learning
+#### Nash-Learning
 
 - **Munos, et al. (2023)** *Nash Learning from Human Feedback*. arXiv [[Paper](https://arxiv.org/abs/2312.00886)]
 - **Wu, et al. (2024)** *Self-Play Preference Optimization for Language Model Alignment*. arXiv [[Paper](https://arxiv.org/abs/2405.00675)]
 
-### SFT-like
+#### SFT-like
 
 - **Dong, et al. (2023)** *RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment*. arXiv [[Paper](https://arxiv.org/abs/2304.06767)]
 - **Gulcehre, et al. (2023)** *Reinforced Self-Training (ReST) for Language Modeling*. arXiv [[Paper](https://arxiv.org/abs/2308.08998)]
 - **Yuan, et al. (2023)** *RRHF: Rank Responses to Align Language Models with Human Feedback Without Tears*. arXiv [[Paper](https://arxiv.org/abs/2304.05302)]
 - **Mukobi, et al. (2023)** *SuperHF: Supervised Iterative Learning from Human Feedback*. arXiv [[Paper](https://arxiv.org/abs/2310.16763)]
 
-### Multi-Modal Models (Online)
+#### Multi-Modal Models (Online)
 
-#### Diffusion
+##### Diffusion
 
 - **Prabhudesai, et al. (2023)** *Aligning Text-to-Image Diffusion Models with Reward Backpropagation*. arXiv [[Paper](https://arxiv.org/abs/2310.03739)]
 - **Black, et al. (2024)** *Training Diffusion Models with Reinforcement Learning*. ICLR 2024 [[Paper](https://openreview.net/forum?id=QD-bvv3CO2)]
@@ -82,7 +82,7 @@ The paper list will be updated over the time. You are always more than welcome t
 - **Deng, et al. (2024)** *PRDP: Proximal Reward Difference Prediction for Large-scale Reward Finetuning of Diffusion Models*. CVPR 2024 [[Paper](https://arxiv.org/abs/2401.01517)]
 - **Xu, et al. (2024)** *ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation*. NeurIPS 2024 [[Paper](https://arxiv.org/abs/2304.05977)]
 
-#### VLLM
+##### VLLM
 
 - **Chen, et al. (2024)** *Reinforcement Learning for Fine-tuning Text-to-speech Diffusion Models*. arXiv [[Paper](https://arxiv.org/abs/2405.14632)]
 - **Zhang, et al. (2024)** *HIVE: Harnessing Human Feedback for Instructional Visual Editing*. CVPR 2024 [[Paper](https://arxiv.org/abs/2303.09618)]
@@ -90,16 +90,16 @@ The paper list will be updated over the time. You are always more than welcome t
 - **Yu, et al. (2024)** *RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-Grained Correctional Human Feedback*. CVPR 2024 [[Paper](https://arxiv.org/abs/2312.15666)]
 - **Liang, et al. (2024)** *Rich Human Feedback for Text-to-Image Generation*. CVPR 2024 [[Paper](https://arxiv.org/abs/2402.05145)]
 
-## Offline Methods
+### Offline Methods
 
 - **Zhuang, et al. (2023)** *Behavior Proximal Policy Optimization*. arXiv [[Paper](https://arxiv.org/abs/2302.11312)]
 
-### Multi-Modal Models (Offline)
+#### Multi-Modal Models (Offline)
 
 - **Wallace, et al. (2024)** *Diffusion Model Alignment Using Direct Preference Optimization*. CVPR 2024 [[Paper](https://arxiv.org/abs/2311.12908)]
 - **Zhou, et al. (2024)** *Aligning Modalities in Vision Large Language Models via Preference Fine-tuning*. arXiv [[Paper](https://arxiv.org/abs/2402.11411)]
 
-### Offline DPO
+#### Offline DPO
 
 - **Rafailov, et al. (2024)** *Direct Preference Optimization: Your Language Model is Secretly a Reward Model*. NeurIPS 2024 [[Paper](https://arxiv.org/abs/2305.18290)]
 - **Chen, et al. (2024)** *Low-Redundant Optimization for Large Language Model Alignment*. arXiv [[Paper](https://arxiv.org/abs/2406.12606)]
@@ -119,22 +119,22 @@ The paper list will be updated over the time. You are always more than welcome t
 - **Li, et al. (2024)** *Preference Tuning For Toxicity Mitigation Generalizes Across Languages*. arXiv [[Paper](https://arxiv.org/abs/2406.16235)]
 - **Zhao, et al. (2023)** *SLiC-HF: Sequence Likelihood Calibration with Human Feedback*. arXiv [[Paper](https://arxiv.org/abs/2305.10425)]
 
-## Combination
+### Combination
 
 - **Fakoor, et al. (2020)** *P3O: Policy-on Policy-off Policy Optimization*. UAI 2020 [[Paper](https://proceedings.mlr.press/v124/fakoor20a.html)]
 - **Zhong, et al. (2024)** *DPO Meets PPO: Reinforced Token Optimization for RLHF*. arXiv [[Paper](https://arxiv.org/abs/2404.18922)]
 
-## Sampling-Agnostic
+### Sampling-Agnostic
 
 - **Zheng, et al. (2024)** *Weak-to-Strong Extrapolation Expedites Alignment*. arXiv [[Paper](https://arxiv.org/abs/2404.16792)]
 
-## Blogs and Links
+### Blogs and Links
 - <b>Weng (2024)</b> <i>Reward Hacking</i>. Lilian Weng Blog <a href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/">[Blog]</a>
 
-## Other Related Survey Papers
+### Other Related Survey Papers
 - <b>opendilab</b> <i>awesome-RLHF</i>. <a href="https://github.com/opendilab/awesome-RLHF">[Github]</a>
 
-# Citation
+## Citation
 
 If our paper and this github repo are helpful, you are more than welcome to cite our papers through the following bib tex:
 
