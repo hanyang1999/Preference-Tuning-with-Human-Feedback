@@ -8,10 +8,25 @@ The paper list will be updated over the time. You are always more than welcome t
 - [🚀 Highlights](#-highlights)
 
 - [📑 Research Papers](#-research-papers)
-  - [Other Related Survey Papers](#Other-Related-Survey-Papers)
-  - [RLHF](#OpenAI-RLHF)
+  - [Online Methods](#online-methods)
+    - [RLHF](#rlhf)
+      - [PPO](#ppo)
+      - [REINFORCE](#reinforce)
+    - [Online DPO](#online-dpo)
+    - [Nash-Learning](#nash-learning)
+    - [SFT-like](#sft-like)
+    - [Multi-Modal Models](#multi-modal-models-online)
+  - [Offline Methods](#offline-methods)
+    - [Offline DPO](#offline-dpo)
+    - [Multi-Modal Models](#multi-modal-models-offline)
+  - [Combination](#combination)
+  - [Sampling-Agnostic](#sampling-agnostic)
+    - [Other Related Survey Papers](#Other-Related-Survey-Papers)
+    - [RLHF](#OpenAI-RLHF)
 
 - [Blogs and Links](#Blogs-and-Links)
+- [Blogs and Links](#Other-Related-Survey-Papers)
+- [Citation](#Citation)
 
 ## 🚀 Highlights
 - 2025/04/30 Our survey paper is officially published by Journal of Artificial Intelligence Research (JAIR).
@@ -19,19 +34,7 @@ The paper list will be updated over the time. You are always more than welcome t
 - 2025/02/07 Our paper is accepted by the Journal of Artifical Intelligence Research.
 
 ### Papers Table of Contents
-- [Online Methods](#online-methods)
-  - [RLHF](#rlhf)
-    - [PPO](#ppo)
-    - [REINFORCE](#reinforce)
-  - [Online DPO](#online-dpo)
-  - [Nash-Learning](#nash-learning)
-  - [SFT-like](#sft-like)
-  - [Multi-Modal Models](#multi-modal-models-online)
-- [Offline Methods](#offline-methods)
-  - [Offline DPO](#offline-dpo)
-  - [Multi-Modal Models](#multi-modal-models-offline)
-- [Combination](#combination)
-- [Sampling-Agnostic](#sampling-agnostic)
+
 
 ### Online Methods
 
@@ -128,10 +131,10 @@ The paper list will be updated over the time. You are always more than welcome t
 
 - **Zheng, et al. (2024)** *Weak-to-Strong Extrapolation Expedites Alignment*. arXiv [[Paper](https://arxiv.org/abs/2404.16792)]
 
-### Blogs and Links
+## Blogs and Links
 - <b>Weng (2024)</b> <i>Reward Hacking</i>. Lilian Weng Blog <a href="https://lilianweng.github.io/posts/2024-11-28-reward-hacking/">[Blog]</a>
 
-### Other Related Survey Papers
+## Other Related Survey Papers
 - <b>opendilab</b> <i>awesome-RLHF</i>. <a href="https://github.com/opendilab/awesome-RLHF">[Github]</a>
 
 ## Citation
