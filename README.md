@@ -25,7 +25,7 @@ The paper list will be updated over the time. You are always more than welcome t
     - [RLHF](#OpenAI-RLHF)
 
 - [Blogs and Links](#Blogs-and-Links)
-- [Blogs and Links](#Other-Related-Survey-Papers)
+- [Other Related Survey Papers](#Other-Related-Survey-Papers)
 - [Citation](#Citation)
 
 ## 🚀 Highlights
