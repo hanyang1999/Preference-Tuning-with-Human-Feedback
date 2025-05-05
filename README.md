@@ -22,8 +22,6 @@ The paper list will be updated over the time. You are always more than welcome t
   - [Combination](#combination)
   - [Sampling-Agnostic](#sampling-agnostic)
 
-- [Other Related Survey Papers](#Other-Related-Survey-Papers)
-
 - [Blogs and Links](#Blogs-and-Links)
   
 - [Other Related Survey Papers](#Other-Related-Survey-Papers)
